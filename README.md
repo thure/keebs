@@ -1,3 +1,5 @@
+<img src="https://i.redd.it/r9g4nloocqk01.jpg"/>
+
 # Keebs
 
 This is mostly for maintaining my favorite mechanical keyboard, which was immortalized in [a post on r/forbiddensnacks](https://www.reddit.com/r/forbiddensnacks/comments/8369mh/forbidden_marshmallow_assortment/).
